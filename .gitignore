@@ -1,0 +1,7 @@
+__pycache__/
+venv/
+example/
+
+.prettierrc
+script.py
+test.py
